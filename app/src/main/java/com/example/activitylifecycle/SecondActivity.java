@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class SecondActivity extends AppCompatActivity {
 
-    public static final String EXTRA_ITEMS = "me.mahakagg.shoppinglist.extra.ITEMS";
+    public static final String EXTRA_ITEMS = "com.example.android.activitylifecycle.extra.ITEMS";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
